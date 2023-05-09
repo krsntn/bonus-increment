@@ -60,7 +60,7 @@ function App() {
                 marginBottom: "1rem",
               }}
             >
-              calculte bonus
+              calculate bonus
             </div>
             <div>
               base salary:{" "}
@@ -121,7 +121,7 @@ function App() {
                 marginBottom: "1rem",
               }}
             >
-              calculte increment
+              calculate increment
             </div>
             <div>
               prev salary:{" "}
